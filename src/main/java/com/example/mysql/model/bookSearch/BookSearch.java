@@ -1,4 +1,4 @@
-package com.example.mysql.model;
+package com.example.mysql.model.bookSearch;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

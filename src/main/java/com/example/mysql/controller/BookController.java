@@ -1,8 +1,8 @@
 package com.example.mysql.controller;
 
 import lombok.RequiredArgsConstructor;
-import com.example.mysql.model.Book;
-import com.example.mysql.model.BookSearch;
+import com.example.mysql.model.book.Book;
+import com.example.mysql.model.bookSearch.BookSearch;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;

@@ -1,6 +1,5 @@
-package com.example.mysql.model;
+package com.example.mysql.model.book;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

@@ -2,8 +2,8 @@ package com.example.mysql.service;
 
 import com.example.mysql.exception.BadRequestException;
 import com.example.mysql.exception.NotFoundException;
-import com.example.mysql.model.Book;
-import com.example.mysql.model.BookSearch;
+import com.example.mysql.model.book.Book;
+import com.example.mysql.model.bookSearch.BookSearch;
 import com.example.mysql.repository.BookRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.data.domain.Example;

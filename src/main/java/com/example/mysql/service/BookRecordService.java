@@ -1,7 +1,7 @@
 package com.example.mysql.service;
 
-import com.example.mysql.model.Book;
-import com.example.mysql.model.BookSearch;
+import com.example.mysql.model.book.Book;
+import com.example.mysql.model.bookSearch.BookSearch;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
